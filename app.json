@@ -28,7 +28,7 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "put A name for your bot",
+      "description": "BYTE-MD-THAVINDA",
       "value": "BYTE-V.lite",
       "required": false
     },
@@ -53,12 +53,12 @@
       "required": false
     },
     "SESSION_ID": {
-      "description": "put your session ID, the code you received after pairing code make sure starts with Byt;;;",
+      "description": "Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0k4UDdOZTNCblRjZndiVU82MHFQNVRBVlBKT0pnYmpsREdNaURBaVUxOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidXdubTMxM0JvWG9aMUhRRnBkWll1d0FnUWZ2U21pMUJkNVozdkdLMUZUUT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJVQXJ6cnErTzE0Z3NIdHc3U2dPOEtFNVYwV1Bwek93ZWNaZGJZc0tEZW1rPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJlQUxjQTUzZ3kyZkxweHY0akp6dlFYTmV1b2NGZTJLOXVBMTVDTzBuREdnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitFWGR4bE05NlRYUmNFY1pmODdqRXdkL0xxeVJnc1NCaXBaYm9ELzNWRUk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkxEWHYwSktna1dHSjNIeGVuOUd6K1JjWXRCOTFvMTg5RHZ1WW1yYUU3SEU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0RrZy8vQlU4WXZTVmRyQ2ZQTUhxQUFkWUtDSlRPc0ZlUUxvU0xaRFhGTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVFNrQ3czM3doL01UYkxlazVqSWErMHBnTlpza29sSmpFV3RibS9nU2lTbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InUwZDROVFJudkNZYnU5YjhFeVo1QWZoMmxlSmE0N0YxV2hCVHk0cyt1YUJPWE5STEpTcVF0QWhEN2gwZDRteDRSQTJMNkU1REVSbXNncGt6SnZiaWhnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTgzLCJhZHZTZWNyZXRLZXkiOiJFcjN0bDhuZ1lMdWwrZEpDUTNPcE1WblY1Ulc5d2ZMK2JoZlNKdzNMbHdrPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJYU0pIZ1FSVVFfdVJLOW9FQ0xDOTRnIiwicGhvbmVJZCI6IjYwODIyOGI2LTczMDAtNDQ1OS05NmNhLTNkZTg4NjdiYTlhZCIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQdWY1TVVWQzE4LzczV28rNHlmZEFYUk1mSk09In0sInJlZ2lzdGVyZWQiOmZhbHNlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZOSUJxWkJyWGVLcmJXZkYwSnFNcGlOdGdLZz0ifSwicmVnaXN0cmF0aW9uIjp7fSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ09MeTlJc0RFTm5JdjdjR0dBVWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Im93S0xXaExpTDVVeU1aOHpCcEExVjFvWDI4UDdpK3IrOEhGVHVzTUpuUmc9IiwiYWNjb3VudFNpZ25hdHVyZSI6InJMc1pDZVBoTHNxWVlSMWRXUW5LMWVuYThqcDZLVGFFbk5GRG9mL2lzZC9aaWg2ZW5ua2gra0UxSHRVR3Zjb3QvWmN4VkxJMUlFdWY3RGd6YXVYSENRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJkWGVRMHRkUEZUcjJ6dDY0ZHRrQ1VuemtiVmx3ZVBRSjJWaWpQYWg2N2prZUJTK05FbjZ6T29rZ3g5cDR2WTJCLzl5MGNzVFR2d1hsZHowM3ovNzZpZz09In0sIm1lIjp7ImlkIjoiOTQ3MDI1OTkxNzI6MzNAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiVGhhdmluZGEg8J2Qhi7wnZCOLvCdkIcuIn0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6Ijk0NzAyNTk5MTcyOjMzQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmFNQ2kxb1M0aStWTWpHZk13YVFOVmRhRjl2RCs0dnEvdkJ4VTdyRENaMFkifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MjY5OTc2MDcsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTlpHIn0=",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "THAVINDA HASHAN",
       "required": false,
       "value": "TalkDrove"
     },
@@ -68,7 +68,7 @@
       "value": "off"
     },
     "OWNER_NUMBER": {
-      "desc": "Your number, don't put '+' and put your area code (e.g., '92')",
+      "desc": "94702599172",
       "required": true,
       "value": "923458017380"
     },
